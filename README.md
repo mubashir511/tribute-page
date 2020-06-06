@@ -1,3 +1,3 @@
 # Tribute to Muhammad Ali Jinnah 
-## freeCodeCamp's Responsive Web Development prject
-Surge URL: https:// Mubashir_FreeCodeCamp_Tribute_Page.surge.sh
+This is freeCodeCamp's Responsive Web Development prject called "tribute page"
+Surge URL: http://mubashir_freecodecamp_tribute_page.surge.sh/
